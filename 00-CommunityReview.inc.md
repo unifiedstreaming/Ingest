@@ -226,6 +226,7 @@
                             <ul>
                                 <li> at the github repository: <a href="https://github.com/Dash-Industry-Forum/Ingest/issues">https://github.com/Dash-Industry-Forum/Ingest/issues</a>, or </li>
                                 <li> dashif+iop@groupspaces.com with a subject tag [Ingest] </li>
+				<li> or <a href=="https://gitreports.com/issue/Dash-Industry-Forum/Ingest"> https://gitreports.com/issue/Dash-Industry-Forum/Ingest </a> </li>
                             </ul>
                         </p>
                         <p> Please add a detailed description of the problem and the
